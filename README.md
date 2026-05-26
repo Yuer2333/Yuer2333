@@ -1,38 +1,24 @@
-
-README.md
-Full file content failed to load
-Retry
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hello%2C+World!;I'm+yuer2333;HNU+Freshman;Keep+learning%2C+keep+improving.)
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hello%2C+World!;I'm+yuer2333;HNU+Freshman;Keep+learning%2C+keep+improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hello%2C+World!;I'm+yuer2333;Keep+learning%2C+keep+improving." alt="Typing SVG" />
 </a>
 
-</div>
 <!-- 个性签名 -->
 <p><i>🚀 Stay curious, keep improving.</i></p>
 
----
 <!-- 社交/联系图标 -->
 <a href="https://github.com/yuer2333">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-## Hi there
 </div>
 
-I'm **yuer2333**, a freshman at **HNU**.
 ---
 
-Still new, still learning, and trying to become better every day.
 ## 🧑‍💻 About Me
 
-- Currently learning: **C++**, **Python**, **Machine Learning**
-- Interested in: algorithms, AI, and useful tools
-- Projects: 暂无，正在准备第一个认真完成的项目
-- Goal: write cleaner code and build something meaningful
 - 🎓 HNU 大一学生
 - 📝 持续学习，持续进步
 - 💻 正在学习 C++、Python 和机器学习相关内容
@@ -40,18 +26,10 @@ Still new, still learning, and trying to become better every day.
 
 ---
 
-## Tech Stack
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -67,12 +45,10 @@ Still new, still learning, and trying to become better every day.
 
 ---
 
-## Star Orbit
 ## 📌 Featured Projects
 
 <div align="center">
 
-![star-galaxy](./assets/star-galaxy.svg)
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
 | 🚧 暂无 | 正在学习和准备中，希望之后补上第一个认真完成的项目 | C++ / Python / ML |
@@ -81,28 +57,15 @@ Still new, still learning, and trying to become better every day.
 
 ---
 
-## GitHub Stats
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuer2333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuer2333&layout=compact&theme=tokyonight&hide_border=true" />
 <!-- 文字统计 -->
 <p>
   <img src="https://img.shields.io/github/stars/yuer2333?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Stars" />
   <img src="https://img.shields.io/badge/Repos-learning-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-improving-green?style=for-the-badge" />
-</p>
-
-<br />
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yuer2333&theme=tokyonight&hide_border=true)
-<!-- GitHub 统计卡片 -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuer2333&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuer2333&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <br/>
@@ -118,33 +81,30 @@ Still new, still learning, and trying to become better every day.
 
 ---
 
-## Trophy
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yuer2333&theme=tokyonight&no-frame=true&row=1&column=6)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuer2333&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## Activity
 ## 📈 Activity Graph
 
 <div align="center">
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuer2333&theme=tokyo-night&hide_border=true)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuer2333&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+---
 
 <div align="center">
 
-### Keep going.
 <img src="https://komarev.com/ghpvc/?username=yuer2333&color=blue&style=flat-square" alt="Profile views" />
 
-![visitors](https://komarev.com/ghpvc/?username=yuer2333&style=flat-square&color=58a6ff)
 **⭐ 一点点积累，一点点变强。**
+
+</div>
